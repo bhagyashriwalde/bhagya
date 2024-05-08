@@ -4,7 +4,6 @@
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
 
-
 ## Technical Skills
 - Languages: C, C++, Java, Python,  JavaScript, Dart, Typescript
 - Frontend : HTML, CSS, Bootstrap, React
@@ -12,7 +11,6 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 - Database: MongoDB, MySQL
 - Technologies: Flutter, Machine Learning, Blockchain, Cloud Computing
 - Tools: Git, GitHub, Android Studio
-
 
 
 ## Connect with me  
